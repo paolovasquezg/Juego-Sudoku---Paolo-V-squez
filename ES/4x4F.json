@@ -1,0 +1,14 @@
+{
+    "Paolo": {
+        "Partidas": 3,
+        "Puntaje": 41
+    },
+    "Mariano": {
+        "Partidas": 1,
+        "Puntaje": 64
+    },
+    "Luis": {
+        "Partidas": 1,
+        "Puntaje": 75
+    }
+}
